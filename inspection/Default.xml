@@ -19,6 +19,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="client.makeNoiseModel" />
+        <option value="client.main.utils" />
       </list>
     </option>
   </inspection_tool>
