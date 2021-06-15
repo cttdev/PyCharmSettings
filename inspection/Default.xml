@@ -25,6 +25,7 @@
       <list>
         <option value="client.makeNoiseModel" />
         <option value="client.main.utils" />
+        <option value="matplotlib.transforms.CompositeGenericTransform.__add__" />
       </list>
     </option>
   </inspection_tool>
